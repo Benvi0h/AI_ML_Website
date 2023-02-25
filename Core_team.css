@@ -193,7 +193,7 @@ nav
     box-shadow: 0 0 7px white;
     border-radius: 10px;
     cursor: pointer;
-    margin-top: 50%;
+    margin-top: 15%;
     transform-style: preserve-3d;
     transform: perspective(90em);
     transition: transform .3s;
